@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/35455
     wikipedia: http://en.wikipedia.org/wiki/Robert_Abernathy
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/32068#World-of-the-Drone
 gutenberg_issued: '2010-04-20'
 gutenberg_type: Text
 identifiers:
